@@ -2,7 +2,7 @@
   <parent>
     <artifactId>tddl-all</artifactId>
     <groupId>com.taobao.tddl</groupId>
-    <version>3.1.0.2</version>
+    <version>3.1.0.4</version>
   </parent>
   <modelVersion>4.0.0</modelVersion>
   <artifactId>tddl-sequence</artifactId>
@@ -22,7 +22,7 @@
 	<dependency>
 		<groupId>com.taobao.tddl</groupId>
 		<artifactId>tddl-group-datasource</artifactId>
-		<version>3.1.0.2</version>
+		<version>3.1.0.4</version>
 		<scope>provided</scope>
 	</dependency>
 	<dependency>
